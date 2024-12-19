@@ -1,0 +1,45 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let me think about this step by step:
+
+1. The situation is a life-or-death emergency requiring immediate action (CPR)
+
+2. Paul and Peter are best friends, suggesting a strong current relationship
+   - Despite past conflicts, they maintained their friendship
+   - Being best friends implies they've moved past childhood issues
+
+3. The Pokemon collection argument was from childhood
+   - This is a relatively minor incident from long ago
+   - Most people outgrow and forgive childhood disputes
+
+4. The text exchange exists in the cloud
+   - While potentially embarrassing, this is far less important than saving a life
+   - No reasonable person would prioritize old texts over a friend's life
+
+5. Basic human instinct and moral obligation
+   - Most people will help in life-threatening situations regardless of past conflicts
+   - The instinct to save a life typically overrides other concerns
+   - There could be legal implications for not helping
+
+6. Paul being the only person around creates a clear moral and practical imperative
+   - No option to defer responsibility to others
+   - Direct consequence of inaction would be death of best friend
+
+Considering all factors, particularly that they're best friends and this is a life-or-death situation, old childhood drama would be irrelevant in the moment.
+
+Final Answer: B
+
+Expected Answer: B
+Model Answer: B
+Correct: True

@@ -1,0 +1,33 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let's break down this scenario. Paul is the only person who can administer CPR to Peter, who clearly needs it. However, they have a history of conflict, particularly regarding an incident in their childhood where Paul verbally attacked Peter. Paul stores all his texts in the cloud which means there is an unchangeable record of his past behaviour and thoughts.
+
+The key factor here is the immediate, life-threatening situation. While Paul may have negative feelings towards Peter or remorse for past actions, the reality is that a human being is in front of him, needing immediate medical help. The social and moral expectation in this situation is that one would try to help, irrespective of their personal history. Most people, even if they have had past conflicts, would override their negative feelings when faced with the immediate need to save a life. The fact that Paul stores all texts in the cloud has no relevance to whether he would help in an immediate life or death situation.
+
+Options:
+A. "probably not" - While plausible if Paul were a very callous or malicious person, this isn't the most realistic reaction.
+B. "definitely" - This seems like the most realistic approach most people would take.
+C. "half-heartedly" - This is a possible reaction, but it still entails helping.
+D. "not" - This option does not account for the most basic of human compassion.
+E. "pretend to" - This is unlikely as pretending to administer CPR will not save Peter's life and would still be noticed by anyone observing.
+F. "ponder deeply over whether to" - There is simply no time to "ponder deeply" in a situation requiring CPR, that would result in death.
+
+The most realistic option is that Paul would help, albeit not without some residual emotion about their conflict. Option B reflects this sense of urgent human need.
+
+Final Answer: B
+
+
+Expected Answer: B
+Model Answer: B
+Correct: True

@@ -1,0 +1,44 @@
+Question ID: 4
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+There are two sisters, Amy who always speaks mistruths and Sam who always lies. You don't know which is which. You can ask one question to one sister to find out which path leads to treasure. Which question should you ask to find the treasure (if two or more questions work, the correct answer will be the shorter one)?
+A. "What would your sister say if I asked her which path leads to the treasure?"
+B. "What is your sister’s name?”
+C. "What path leads to the treasure?"
+D. "What path do you think I will take, if you were to guess?"
+E. "What is in the treasure?"
+F. “What is your sister’s number?”
+
+
+Model Response:
+Let me solve this step by step:
+
+1) Let's understand what we know:
+   * One sister always speaks mistruths (opposite of truth)
+   * One sister always lies
+   * We don't know which is which
+   * We need to find the correct path with one question
+
+2) Let's analyze each option:
+   * E and F are irrelevant to finding the path
+   * B won't help determine the path
+   * C would give us a wrong answer from either sister
+   * D is confusing and wouldn't give us useful information
+
+3) Let's analyze option A: "What would your sister say if I asked her which path leads to the treasure?"
+   * If we ask the truth-teller:
+     * She would correctly state what her lying sister would say
+     * The lying sister would point to wrong path
+   * If we ask the liar:
+     * She would lie about what her truth-telling sister would say
+     * Truth-teller would point to correct path
+     * Liar would say opposite
+   * In both cases, we would get the wrong path, so we know to take the other path
+
+4) This is a classic double-negative logic problem. By asking about what the other sister would say, we get a wrong answer regardless of who we ask, which means we know to do the opposite.
+
+Final Answer: A
+
+Expected Answer: C
+Model Answer: A
+Correct: False

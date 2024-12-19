@@ -1,0 +1,46 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let me think about this step by step:
+
+1. First, let's consider the relationship dynamics:
+   - They are best friends currently
+   - There was a past conflict over Pokemon cards
+   - Paul keeps record of all texts (suggesting he might be detail-oriented or hold onto things)
+
+2. The situation is life-or-death:
+   - CPR is an emergency procedure
+   - No one else is around
+   - Immediate action is required
+
+3. Key psychological factors:
+   - Most people, regardless of past conflicts, would help in a life-or-death situation
+   - Being best friends suggests they've moved past childhood conflicts
+   - The Pokemon incident seems relatively minor in the grand scheme
+
+4. Human nature considerations:
+   - Natural instinct to help during emergencies
+   - Social and moral obligation
+   - The consequences of not helping would be devastating
+
+5. Conclusion:
+   - While Paul might have some lingering feelings about the past
+   - Life-threatening situations typically override petty grievances
+   - Being best friends indicates a strong current relationship
+   - Most people would help regardless of past conflicts
+
+Final Answer: B
+
+Expected Answer: B
+Model Answer: B
+Correct: True

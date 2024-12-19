@@ -1,0 +1,44 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let me think through this step by step:
+
+1) First, let's consider what's actually relevant here:
+   - Peter needs life-saving CPR
+   - Paul is the only person who can help
+   - There's some past childhood drama over Pokemon cards
+
+2) What's likely NOT relevant:
+   - The fact that texts are stored in the cloud
+   - The specific nature of the childhood disagreement
+   These seem to be red herrings meant to distract from the core situation
+
+3) Key considerations:
+   - CPR is a life-or-death situation
+   - Most people would instinctively help in an emergency, regardless of past conflicts
+   - The conflict described is relatively minor (Pokemon cards) and from childhood
+   - It's a basic human instinct to help someone in immediate danger
+
+4) Psychology:
+   - Even people with strained relationships typically put aside differences in emergencies
+   - The preservation of human life generally overrides petty disputes
+   - Most people would not want the guilt of refusing to help in a life-or-death situation
+
+5) Conclusion:
+   While there might be some hesitation due to their history, basic human nature and the severity of the situation would almost certainly compel Paul to help. The Pokemon card dispute is too trivial to override the instinct to save a life.
+
+Final Answer: B
+
+Expected Answer: B
+Model Answer: B
+Correct: True

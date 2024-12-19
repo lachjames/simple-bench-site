@@ -1,0 +1,68 @@
+Question ID: 4
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+There are two sisters, Amy who always speaks mistruths and Sam who always lies. You don't know which is which. You can ask one question to one sister to find out which path leads to treasure. Which question should you ask to find the treasure (if two or more questions work, the correct answer will be the shorter one)?
+A. "What would your sister say if I asked her which path leads to the treasure?"
+B. "What is your sister’s name?”
+C. "What path leads to the treasure?"
+D. "What path do you think I will take, if you were to guess?"
+E. "What is in the treasure?"
+F. “What is your sister’s number?”
+
+
+Model Response:
+Let me write pseudocode to solve this:
+
+```
+function findCorrectQuestion():
+    // Initialize array of questions and analyze each
+    for each question:
+        
+        // Case 1: If Amy (mistruths) is asked
+        // Case 2: If Sam (lies) is asked
+        
+        // For Question A:
+        if Amy answers:
+            // Amy mistruths about what Sam would say
+            // Sam would lie about correct path
+            // Amy mistruths about Sam's lie = correct path!
+        if Sam answers:
+            // Sam lies about what Amy would say
+            // Amy would mistruth about correct path
+            // Sam lies about Amy's mistruth = correct path!
+            
+        // For Questions B,C,D,E,F:
+            // Check if these would give definitive answer
+            // regardless of which sister answers
+            
+    // Compare effectiveness of each question
+    // Choose shortest question that guarantees correct answer
+```
+
+Executing this logic:
+
+1) Question A ("What would your sister say...?"):
+   - If Amy answers: She mistruths about Sam's lie = correct path
+   - If Sam answers: She lies about Amy's mistruth = correct path
+   - This gives correct answer regardless of who answers!
+
+2) Question B: Knowing sister's name doesn't help find treasure
+
+3) Question C: Direct question gets opposite of truth, unhelpful
+
+4) Question D: Confusing and doesn't provide definitive answer
+
+5) Question E: Contents irrelevant to finding path
+
+6) Question F: Number irrelevant to finding path
+
+Question A is the only one that works because:
+- It uses both sisters' truth-telling patterns against each other
+- The double negative (lie about mistruth or mistruth about lie) gives correct answer
+- Works regardless of which sister answers
+
+Final Answer: A
+
+Expected Answer: C
+Model Answer: A
+Correct: False

@@ -1,0 +1,42 @@
+Question ID: 4
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+There are two sisters, Amy who always speaks mistruths and Sam who always lies. You don't know which is which. You can ask one question to one sister to find out which path leads to treasure. Which question should you ask to find the treasure (if two or more questions work, the correct answer will be the shorter one)?
+A. "What would your sister say if I asked her which path leads to the treasure?"
+B. "What is your sister’s name?”
+C. "What path leads to the treasure?"
+D. "What path do you think I will take, if you were to guess?"
+E. "What is in the treasure?"
+F. “What is your sister’s number?”
+
+
+Model Response:
+Let me think about this step by step:
+
+1) First, we know that both sisters lie, so there's actually no "truth teller" in this scenario. This is an important detail that makes this problem different from the classic two-guard puzzle.
+
+2) Since both sisters lie, asking either sister a direct question (like C, D, E, or F) won't help because we'll just get a false answer.
+
+3) Options B and F are irrelevant to finding the treasure path.
+
+4) Let's analyze option A: "What would your sister say if I asked her which path leads to the treasure?"
+   - If we ask either sister this question, we get a lie about what their sister (who also lies) would say
+   - This creates a double negative:
+   - Sister 1 lies about Sister 2's lie = truth
+   - So asking either sister "What would your sister say?" would actually give us the wrong path
+
+5) Looking at all options again:
+   - A works (but gives wrong path)
+   - B doesn't help find treasure
+   - C just gets a lie
+   - D just gets a lie
+   - E is irrelevant
+   - F is irrelevant
+
+6) Only A creates the logical construct we need, but it would give us the wrong path. So we'd need to take the opposite path from what we're told.
+
+Final Answer: A
+
+Expected Answer: C
+Model Answer: A
+Correct: False

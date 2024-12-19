@@ -1,0 +1,30 @@
+Question ID: 6
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+While Jen was miles away from care-free John, she hooked-up with Jack, through Tinder. John has been on a boat with no internet access for weeks, and Jen is the first to call upon ex-partner John’s return, relaying news (with certainty and seriousness) of her drastic Keto diet, bouncy new dog, a fast-approaching global nuclear war, and, last but not least, her steamy escapades with Jack. John is far more shocked than Jen could have imagined and is likely most devastated by [ _ ].
+A. wider international events
+B. the lack of internet
+C. the dog without prior agreement
+D. sea sickness
+E. the drastic diet
+F. the escapades
+
+
+Model Response:
+Let's analyze the situation. John has been isolated and is returning to a world with dramatic changes presented to him by Jen. We need to determine what would shock him the most. 
+
+A. Wider international events: While a global nuclear war is serious, John has been isolated. He might be shocked, but it's an abstract concept at this point compared to Jen's personal betrayals.
+B. The lack of internet: John has already been without the internet for weeks, so this is not a new shock to him.
+C. The dog without prior agreement: While it might be surprising, it's not emotionally devastating.
+D. Sea sickness: This is irrelevant to the situation, as John has just returned from his trip and not currently experiencing it.
+E. The drastic diet: While it's a change for Jen, it's not likely to devastate John.
+F. The escapades: This is a direct betrayal of their relationship and would be a deep emotional shock.
+
+Comparing all the options, a personal betrayal and the fact that his partner hooked up with someone else would be far more impactful on him emotionally than the other options presented to him at that time.
+
+Final Answer: F
+
+
+Expected Answer: A
+Model Answer: F
+Correct: False

@@ -1,0 +1,51 @@
+Question ID: 4
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+There are two sisters, Amy who always speaks mistruths and Sam who always lies. You don't know which is which. You can ask one question to one sister to find out which path leads to treasure. Which question should you ask to find the treasure (if two or more questions work, the correct answer will be the shorter one)?
+A. "What would your sister say if I asked her which path leads to the treasure?"
+B. "What is your sister’s name?”
+C. "What path leads to the treasure?"
+D. "What path do you think I will take, if you were to guess?"
+E. "What is in the treasure?"
+F. “What is your sister’s number?”
+
+
+Model Response:
+Let me think about this step by step:
+
+1) We have two sisters, and we don't know which is which:
+   - One always speaks mistruths
+   - One always lies
+
+2) Let's analyze each option:
+   A. "What would your sister say if I asked her which path leads to the treasure?"
+      - If you ask the truth-teller, she would accurately report her sister's lie
+      - If you ask the liar, she would lie about what her sister would truthfully say
+      - In both cases, you'd get the wrong path, so you could take the opposite path
+      - This would work!
+
+   B. "What is your sister's name?"
+      - This doesn't help find the treasure path
+
+   C. "What path leads to the treasure?"
+      - You wouldn't know if the answer is true or false
+      - Not helpful without knowing which sister is which
+
+   D. "What path do you think I will take, if you were to guess?"
+      - This is complex but doesn't give useful information
+
+   E. "What is in the treasure?"
+      - Doesn't help find the correct path
+
+   F. "What is your sister's number?"
+      - Doesn't help find the treasure path
+
+3) Option A is the only one that would give us a definitive answer about the treasure's location, regardless of which sister we ask.
+
+4) Looking at the instruction to choose the shortest working question if multiple work, option A is clearly the one that works.
+
+Final Answer: A
+
+Expected Answer: C
+Model Answer: A
+Correct: False

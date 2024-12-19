@@ -1,0 +1,21 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let's break this down. The situation is life-threatening: Peter needs CPR, and Paul is the only one who can provide it. The fact that Paul has negative history with Peter and texts stored in the cloud is irrelevant to the immediate, critical situation. Paul is Peter's friend, and regardless of past issues, a reasonable person would prioritize saving their friend's life. There is no indication that Paul is sociopathic or would actively choose to let Peter die for old grudges. Therefore, Paul is most likely to help Peter.
+
+Final Answer: B
+
+
+Expected Answer: B
+Model Answer: B
+Correct: True

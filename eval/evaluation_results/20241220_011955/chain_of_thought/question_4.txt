@@ -1,0 +1,38 @@
+Question ID: 4
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+There are two sisters, Amy who always speaks mistruths and Sam who always lies. You don't know which is which. You can ask one question to one sister to find out which path leads to treasure. Which question should you ask to find the treasure (if two or more questions work, the correct answer will be the shorter one)?
+A. "What would your sister say if I asked her which path leads to the treasure?"
+B. "What is your sister’s name?”
+C. "What path leads to the treasure?"
+D. "What path do you think I will take, if you were to guess?"
+E. "What is in the treasure?"
+F. “What is your sister’s number?”
+
+
+Model Response:
+Let me think about this step by step:
+
+1) We have two sisters who both lie, but we don't know which is which.
+
+2) We need to find the correct path with just one question.
+
+3) Let's analyze each option:
+   - Option A: This creates a double negative effect. If you ask the liar, they'll lie about what their sister (who lies) would say, giving you the truth.
+   - Option B: Knowing their sister's name doesn't help find the treasure.
+   - Option C: A direct question will just get a lie, unhelpful.
+   - Option D: This is unclear and won't help locate the treasure.
+   - Option E: Knowing what's in the treasure doesn't help find it.
+   - Option F: Similar to B, this doesn't help find the treasure.
+
+4) Option A works because:
+   - If you ask the liar: They'll lie about what their sister (who lies) would say = truth
+   - If you ask the truth-teller: They'll tell truth about what their sister (who lies) would say = also leads to truth
+
+5) It's the only option that guarantees the correct path regardless of which sister you ask.
+
+Final Answer: A
+
+Expected Answer: C
+Model Answer: A
+Correct: False

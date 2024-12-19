@@ -1,0 +1,21 @@
+Question ID: 10
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+A luxury sports-car is traveling north at 30km/h over a roadbridge, 250m long, which runs over a river that is flowing at 5km/h eastward. The wind is blowing at 1km/h westward, slow enough not to bother the pedestrians snapping photos of the car from both sides of the roadbridge as the car passes. A glove was stored in the trunk of the car, but slips out of a hole and drops out when the car is half-way over the bridge. Assume the car continues in the same direction at the same speed, and the wind and river continue to move as stated. 1 hour later, the water-proof glove is (relative to the center of the bridge) approximately
+A. 4km eastward
+B. <1 km northward
+C. >30km away north-westerly
+D. 30 km northward
+E. >30 km away north-easterly.
+F. 5 km+ eastward
+
+
+Model Response:
+The key here is to focus on the glove's motion *after* it falls off the car. The car's speed, direction, and the bridge's length are all irrelevant to the glove's final position *after* it has fallen into the river. The river's eastward flow is the dominant factor affecting the glove's movement, as the wind's westward effect will have little impact when compared with the river. The glove is in the river for one hour, and the river flows at 5 km/h eastward. Therefore, in one hour, the glove will travel approximately 5 km eastward. The question asks for the location relative to the center of the bridge, so that's where the 5 km eastward measurement would be taken from. The effect of the wind on the glove while floating in the water would be minimal compared to the river's flow.
+
+Final Answer: F
+
+
+Expected Answer: B
+Model Answer: F
+Correct: False

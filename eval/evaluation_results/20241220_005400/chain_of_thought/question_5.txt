@@ -1,0 +1,47 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let's think about this step by step:
+
+1. First, let's consider the severity of the situation:
+   * CPR is a life-or-death emergency
+   * Paul is the only person available to help
+   * This is about saving a human life
+
+2. Let's analyze the relationship:
+   * They are best friends currently
+   * The conflict was from childhood (meaning they've moved past it)
+   * The issue was relatively minor (Pokemon cards)
+
+3. Consider human nature:
+   * Most people would instinctively help in life-threatening situations
+   * Past petty conflicts typically don't override basic human empathy
+   * Being best friends indicates they've maintained a good relationship
+
+4. Consider the evidence preservation aspect:
+   * While Paul might be concerned about the texts being permanent evidence
+   * A failure to help in an emergency would be far more damaging legally and morally
+   * Not helping could result in manslaughter charges
+
+5. Analyzing the options:
+   * Most extreme options (definitely/not) seem unrealistic
+   * Hesitation options (ponder/half-hearted) don't fit emergency response
+   * Pretending doesn't make sense in a CPR situation
+
+Given that they're best friends now and the conflict was minor and in the past, plus the severe consequences of not helping, Paul would most likely help despite any reservation about the texts.
+
+Final Answer: B
+
+Expected Answer: B
+Model Answer: B
+Correct: True

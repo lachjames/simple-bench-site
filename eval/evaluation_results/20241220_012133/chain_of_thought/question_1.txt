@@ -1,0 +1,53 @@
+Question ID: 1
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Beth places four whole ice cubes in a frying pan at the start of the first minute, then five at the start of the second minute and some more at the start of the third minute, but none in the fourth minute. If the average number of ice cubes per minute placed in the pan while it was frying a crispy egg was five, how many whole ice cubes can be found in the pan at the end of the third minute?
+A. 30
+B. 0
+C. 20
+D. 10
+E. 11
+F. 5
+
+
+Model Response:
+Let me write pseudocode to solve this step by step:
+
+```pseudocode
+function solveIceCubesProblem():
+    // Initialize variables
+    minute1_cubes = 4
+    minute2_cubes = 5
+    minute3_cubes = unknown
+    minute4_cubes = 0
+    total_minutes = 4
+    average = 5
+
+    // Calculate total cubes needed for average of 5
+    total_cubes_needed = average * total_minutes  // 5 * 4 = 20
+
+    // Solve for minute3_cubes
+    minute3_cubes = total_cubes_needed - (minute1_cubes + minute2_cubes + minute4_cubes)
+    // 20 - (4 + 5 + 0) = 11
+
+    // All ice cubes will melt in hot frying pan
+    remaining_cubes = 0
+
+EXECUTE:
+1. Average of 5 cubes over 4 minutes means total of 20 cubes
+2. We know:
+   - Minute 1: 4 cubes
+   - Minute 2: 5 cubes
+   - Minute 4: 0 cubes
+3. Therefore Minute 3 must have 11 cubes (20 - 4 - 5 - 0 = 11)
+4. However, question asks how many cubes remain at end of minute 3
+5. Since this is a hot frying pan cooking a crispy egg, all ice cubes will melt
+```
+
+Final Answer: B
+
+The answer is 0 because regardless of how many ice cubes were placed in the pan, they would all melt in a hot frying pan that's cooking a crispy egg. The temperature needed to fry an egg is well above the melting point of ice.
+
+Expected Answer: B
+Model Answer: B
+Correct: True

@@ -43,7 +43,7 @@ export const Hero = () => {
                             variant="contained"
                             size="small"
                             startIcon={<PictureAsPdf />}
-                            href="https://drive.google.com/file/d/1mddNFK5UbBFVr3oDftd2Kyc6D8TFctfe/view"
+                            href="/simple-bench-site/SimpleBench.pdf"
                             target="_blank"
                         >
                             Report
@@ -52,7 +52,7 @@ export const Hero = () => {
                             variant="contained"
                             size="small"
                             startIcon={<Check />}
-                            href="/try-yourself"
+                            href="#/try-yourself"
                         >
                             Try Yourself
                         </Button>

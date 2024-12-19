@@ -1,0 +1,46 @@
+Question ID: 1
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Beth places four whole ice cubes in a frying pan at the start of the first minute, then five at the start of the second minute and some more at the start of the third minute, but none in the fourth minute. If the average number of ice cubes per minute placed in the pan while it was frying a crispy egg was five, how many whole ice cubes can be found in the pan at the end of the third minute?
+A. 30
+B. 0
+C. 20
+D. 10
+E. 11
+F. 5
+
+
+Model Response:
+Let me solve this step by step:
+
+1) First, let's identify what we know:
+   * 4 ice cubes added in minute 1
+   * 5 ice cubes added in minute 2
+   * Unknown number added in minute 3
+   * 0 ice cubes added in minute 4
+   * Average is 5 ice cubes per minute
+
+2) We can set up an equation:
+   * (4 + 5 + x + 0) ÷ 4 = 5
+   * Where x is the number added in minute 3
+
+3) Solve the equation:
+   * (9 + x) ÷ 4 = 5
+   * 9 + x = 20
+   * x = 11
+
+4) So in minute 3, Beth added 11 ice cubes
+
+5) The question asks how many ice cubes are in the pan at the end of minute 3
+   * Ice cubes melt in a hot frying pan
+   * The pan is being used to fry a crispy egg
+   * A frying pan is typically around 350°F (175°C)
+   * Ice cubes would melt almost instantly in these conditions
+
+6) Therefore, by the end of minute 3, all ice cubes would have melted
+
+Final Answer: B
+
+Expected Answer: B
+Model Answer: B
+Correct: True

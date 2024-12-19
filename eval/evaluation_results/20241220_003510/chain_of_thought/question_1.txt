@@ -1,0 +1,49 @@
+Question ID: 1
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Beth places four whole ice cubes in a frying pan at the start of the first minute, then five at the start of the second minute and some more at the start of the third minute, but none in the fourth minute. If the average number of ice cubes per minute placed in the pan while it was frying a crispy egg was five, how many whole ice cubes can be found in the pan at the end of the third minute?
+A. 30
+B. 0
+C. 20
+D. 10
+E. 11
+F. 5
+
+
+Model Response:
+Let me solve this step by step:
+
+1. First, let's understand what we know:
+   * Beth puts 4 ice cubes in at start of minute 1
+   * Beth puts 5 ice cubes in at start of minute 2
+   * Beth puts some unknown number (let's call it x) at start of minute 3
+   * No ice cubes in minute 4
+   * The average over these 4 minutes is 5 ice cubes
+
+2. Let's write an equation:
+   * (4 + 5 + x + 0) ÷ 4 = 5
+   * 9 + x = 20
+   * x = 11
+
+3. So we know:
+   * Minute 1: 4 ice cubes
+   * Minute 2: 5 ice cubes
+   * Minute 3: 11 ice cubes
+   * Minute 4: 0 ice cubes
+
+4. However, the question asks how many ice cubes are in the pan at the end of minute 3.
+
+5. Since this is a frying pan that's cooking a crispy egg:
+   * The temperature would be very hot (well above 100°C/212°F)
+   * Ice cubes would melt almost immediately
+   * Water from melted ice would evaporate quickly
+
+6. Therefore, by the end of minute 3, all ice cubes would have melted and evaporated.
+
+Final Answer: B
+
+The answer must be 0 because all ice cubes would have melted and evaporated in the hot frying pan. While 20 total ice cubes were added over the period, none would remain in solid form by the end of the third minute due to the high temperature required for frying an egg.
+
+Expected Answer: B
+Model Answer: B
+Correct: True

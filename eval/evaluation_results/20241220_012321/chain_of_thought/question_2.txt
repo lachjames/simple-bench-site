@@ -1,0 +1,21 @@
+Question ID: 2
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+A juggler throws a solid blue ball a meter in the air and then a solid purple ball (of the same size) two meters in the air. She then climbs to the top of a tall ladder carefully, balancing a yellow balloon on her head. Where is the purple ball most likely now, in relation to the blue ball?
+A. at the same height as the blue ball
+B. at the same height as the yellow balloon
+C. inside the blue ball
+D. above the yellow balloon
+E. below the blue ball
+F. above the blue ball
+
+
+Model Response:
+The juggler throws the balls one after the other. The height the ball goes when it's thrown does not determine where it is now. Once thrown, gravity will pull the balls back down. Assuming the juggler throws them straight up and she's on solid ground, the balls will both fall back down towards the ground. Therefore, they will both be at or near ground level after they are thrown and fall. The purple ball went higher but is now falling at the same speed as the blue ball and thus has fallen back down. The juggler's position on the ladder with a balloon has nothing to do with the position of the thrown balls. Since both balls were thrown, they would both be near the ground at the same time, and thus at a similar height.
+
+Final Answer: A
+
+
+Expected Answer: A
+Model Answer: A
+Correct: True

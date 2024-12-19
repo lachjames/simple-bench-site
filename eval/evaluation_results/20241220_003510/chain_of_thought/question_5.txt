@@ -1,0 +1,46 @@
+Question ID: 5
+Prompt:
+You are an expert at reasoning and you always pick the most realistic answer. Think step by step and output your reasoning followed by your final answer using the following format: Final Answer: X where X is one of the letters A, B, C, D, E, or F.
+Peter needs CPR from his best friend Paul, the only person around. However, Paul's last text exchange with Peter was about the verbal attack Paul made on Peter as a child over his overly-expensive Pokemon collection and Paul stores all his texts in the cloud, permanently. Paul will [ _ ] help Peter.
+A. probably not
+B. definitely
+C. half-heartedly
+D. not
+E. pretend to
+F. ponder deeply over whether to
+
+
+Model Response:
+Let's think about this step by step:
+
+1. First, let's consider the severity of the situation:
+   - CPR is a life-or-death emergency
+   - Paul is the only person available to help
+   - This is about saving a human life
+
+2. Let's look at the relationship factors:
+   - Paul and Peter are best friends currently
+   - The conflict was from childhood (past)
+   - The issue was relatively minor (Pokemon cards)
+
+3. Consider human nature:
+   - Most people would instinctively help in life-threatening situations
+   - Past minor conflicts typically don't override basic human empathy
+   - Best friends generally care about each other's well-being
+
+4. Evaluate the text message factor:
+   - While potentially embarrassing, this is a minor concern
+   - Cloud storage of old texts is irrelevant in an emergency
+
+5. Social and moral implications:
+   - Not helping could result in death
+   - Legal and moral obligations to help
+   - Social consequences of not helping would be severe
+
+Given these factors, most people would overcome any hesitation and help in a life-or-death situation, especially for a best friend. The childhood dispute and stored texts are too trivial compared to the immediacy and severity of needing CPR.
+
+Final Answer: B
+
+Expected Answer: B
+Model Answer: B
+Correct: True
